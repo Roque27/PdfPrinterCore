@@ -20,5 +20,18 @@
     },
     // Optionally generate .map file
     "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/css/bootstrap.min.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/jquery-datatables.min.css",
+    "inputFiles": [
+      "wwwroot/lib/DataTables/media/css/jquery.dataTables.css",
+      "wwwroot/lib/DataTables/media/css/dataTables.bootstrap.css"
+    ]
   }
 ]
