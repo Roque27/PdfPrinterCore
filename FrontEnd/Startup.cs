@@ -43,7 +43,7 @@ namespace FrontEnd
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=MainGrid}/{action=Index}/{id?}");
             });
         }
     }

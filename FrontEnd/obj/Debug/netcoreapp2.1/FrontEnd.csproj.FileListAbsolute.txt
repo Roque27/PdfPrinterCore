@@ -1,0 +1,11 @@
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\bin\Debug\netcoreapp2.1\FrontEnd.deps.json
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\bin\Debug\netcoreapp2.1\FrontEnd.runtimeconfig.json
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\bin\Debug\netcoreapp2.1\FrontEnd.runtimeconfig.dev.json
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\bin\Debug\netcoreapp2.1\FrontEnd.dll
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\bin\Debug\netcoreapp2.1\FrontEnd.pdb
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.csprojAssemblyReference.cache
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.AssemblyInfo.cs
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.dll
+C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\FrontEnd\obj\Debug\netcoreapp2.1\FrontEnd.pdb
