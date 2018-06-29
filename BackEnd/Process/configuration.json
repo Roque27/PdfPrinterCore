@@ -1,0 +1,12 @@
+﻿{
+  "PATH_OUT": "./out/",
+  "PATH_OUT_ORIGINAL": "/lpd/out/",
+  "TEMP_DIR": "/opt/lampp/htdocs/printer_web/temp/",
+  "PATH_PREPRINTED": "/opt/lampp/htdocs/printer_web/preprinted/",
+  "OS": "Linux",
+  "HOST": "localhost",
+  "USER": "root",
+  "PASS": "abc123",
+  "DB": "pdf_printer_db",
+  "ANTIGUEDAD_HASTA":"15"
+}
