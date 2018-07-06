@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Resultado eliminar trabajos de impresión</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/DT_bootstrap.css">
+</head>
+<body>
+    <div class="container">
+        <div id="titulo" class="page-header">
+            <h1>Resultado eliminar trabajos de impresión</h1>
+        </div>
+        <div class\"col-lg-4\">
+            <!-- #region Logica Correcta -->
+            @{ if (Convert.ToBoolean(@ViewData["isCorrect"]))
+                {
+                    <div class="alert alert-dismissable alert-success">
+                        <button type="button" class="close" data-dismiss="alert">×</button>
+                        <strong>Correcto!</strong> Archivos eliminados
+                        <ul>
+                            @ViewData["corrects"]
+                        </ul>
+                    </div>
+                    <h4>Total de archivos eliminados correctamente: @ViewData["cantCorrect"]</h4>
+                }
+            }
+            <!-- #endregion -->
+            <!-- #region Logica Incorrecta -->
+            @{ if (Convert.ToBoolean(@ViewData["isCorrect"]))
+                {
+                    <div class="alert alert-dismissable alert-danger">
+                        <button type="button" class="close" data-dismiss="alert">×</button>
+                        <strong>Error!</strong> Archivos que no se pudieron eliminar
+                        <ul>
+                            @ViewData["incorrects"]
+                        </ul>
+                    </div>
+                    <h4>Total de registros con problemas al intentar eliminar archivos: @ViewData["cantIncorrect"]</h4>
+                }
+            }
+            <!-- #endregion -->
+
+                    <h4>Total de registros procesados: @ViewData["cant"]</h4>
+        </div>
+        <div style="text-align:right; padding-bottom:1em;">
+            <input type="button" class="btn btn-primary" value="Volver" onClick="window.location ='/printer_web/admin.php' ">
+        </div>
+    </div>
+</body>
+</html>
