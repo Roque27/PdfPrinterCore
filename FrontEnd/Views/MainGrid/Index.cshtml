@@ -3,6 +3,10 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@section Scripts{
+
+    <script src="@Url.Content("~/views/maingrid.js")"></script>
+}
 
 <div class="container">
     <div class="page-header" id="banner">
@@ -49,4 +53,3 @@
         </div>
     </div>
 </div>
-

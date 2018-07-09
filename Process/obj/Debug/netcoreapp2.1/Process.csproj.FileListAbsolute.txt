@@ -9,3 +9,14 @@ C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\Process\obj\Debug\netcor
 C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.AssemblyInfo.cs
 C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.dll
 C:\Users\rmarchio\Desktop\Local\Examples\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.pdb
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\bin\Debug\netcoreapp2.1\Process.deps.json
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\bin\Debug\netcoreapp2.1\Process.runtimeconfig.json
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\bin\Debug\netcoreapp2.1\Process.runtimeconfig.dev.json
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\bin\Debug\netcoreapp2.1\Process.dll
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\bin\Debug\netcoreapp2.1\Process.pdb
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.csprojAssemblyReference.cache
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.csproj.CoreCompileInputs.cache
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.AssemblyInfoInputs.cache
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.AssemblyInfo.cs
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.dll
+C:\Proyectos\telesto_core\PdfPrinterCore\Process\obj\Debug\netcoreapp2.1\Process.pdb
